@@ -1,0 +1,3 @@
+DataSet: "https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection?resource=download"
+
+VGG19: "https://keras.io/ko/applications/#vgg19"
